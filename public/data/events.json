@@ -1,0 +1,533 @@
+[
+  {
+    "id": "eh-ev-001",
+    "title": "Neon Horizon Electronic Music Festival",
+    "tagline": "An electrifying 2-night sonic journey with world-class international DJs and immersive visual projections.",
+    "category": "Music",
+    "date": "2026-10-18",
+    "time": "17:00 - 02:00",
+    "venue": "Solaris Waterfront Amphitheater",
+    "city": "San Francisco, CA",
+    "address": "450 Marina Boulevard, Pier 70",
+    "price": 65,
+    "currency": "$",
+    "featured": true,
+    "rating": 4.9,
+    "reviewsCount": 384,
+    "totalCapacity": 2500,
+    "remainingTickets": 84,
+    "tags": ["Electronic", "EDM", "Outdoor", "Live DJ", "Nightlife"],
+    "organizer": {
+      "name": "PulseWave Entertainment",
+      "role": "Premier Festival Curators",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+      "verified": true,
+      "contactEmail": "contact@pulsewave.events",
+      "phone": "+1 (415) 555-0192"
+    },
+    "description": "Step into a breathtaking realm of synthesizers, laser arrays, and heavy basslines. The 2026 Neon Horizon Festival unites top international headliners with emerging underground legends across three custom-engineered sound stages. Featuring immersive 360-degree LED pavilions, craft cocktail lounges, and gourmet food trucks.",
+    "highlights": [
+      "Over 24 world-renowned international DJ sets across 3 stages",
+      "State-of-the-art spatial audio and kinetic laser displays",
+      "Curated food grove with 18 artisan bay area culinary vendors",
+      "Complimentary eco-friendly refillable water bottles & hydration stations"
+    ],
+    "schedule": [
+      { "time": "17:00", "title": "Gates Open & Chillout Stage Warming", "speakerOrDetail": "Ambient Lounge & Sunset Acoustics" },
+      { "time": "19:00", "title": "Electra Soundscape Showcase", "speakerOrDetail": "Stage B - DJ Kroma & Synthetica" },
+      { "time": "21:30", "title": "Mainstage Headliner: Nova Drift", "speakerOrDetail": "Main Stage - 120-minute immersive audio-visual set" },
+      { "time": "23:45", "title": "Midnight Pyro & Laser Odyssey", "speakerOrDetail": "Full Arena Synchronization Finale" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "ticketTiers": [
+      {
+        "id": "tier-ga-001",
+        "name": "General Admission",
+        "price": 65,
+        "description": "Full access to all 3 stages, food grove, and general viewing lawns.",
+        "perks": ["Access to all music stages", "Access to food and bar village", "Festival wristband"],
+        "remaining": 52
+      },
+      {
+        "id": "tier-vip-001",
+        "name": "VIP Horizon Pass",
+        "price": 145,
+        "description": "Expedited express entry, elevated viewing platforms, dedicated cocktail bars, and plush lounges.",
+        "perks": ["Express VIP Entry Lane", "Elevated front-row viewing deck", "Private restrooms & air-conditioned lounge", "2 complimentary artisan drinks"],
+        "remaining": 22
+      },
+      {
+        "id": "tier-backstage-001",
+        "name": "Backstage Experience",
+        "price": 280,
+        "description": "Exclusive backstage artist lounge access, open bar, and meet & greet access.",
+        "perks": ["All VIP perks included", "Artist lounge wristband", "Open bar with premium spirits", "Exclusive festival commemorative bomber jacket"],
+        "remaining": 10
+      }
+    ]
+  },
+  {
+    "id": "eh-ev-002",
+    "title": "Global AI & Cloud Summit 2026",
+    "tagline": "The premier gathering of AI researchers, cloud architects, and tech innovators shaping the next decade.",
+    "category": "Technology",
+    "date": "2026-10-24",
+    "time": "08:30 - 18:00",
+    "venue": "Metropolitan Tech Center",
+    "city": "San Jose, CA",
+    "address": "150 W San Carlos St, Convention Center Hall A",
+    "price": 120,
+    "currency": "$",
+    "featured": true,
+    "rating": 4.95,
+    "reviewsCount": 512,
+    "totalCapacity": 1800,
+    "remainingTickets": 115,
+    "tags": ["AI", "Machine Learning", "Cloud", "Developer", "Networking"],
+    "organizer": {
+      "name": "Nexus Tech Foundation",
+      "role": "Global Engineering Alliance",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+      "verified": true,
+      "contactEmail": "info@nexustechsummit.org",
+      "phone": "+1 (408) 555-0321"
+    },
+    "description": "Join 1,800+ software engineers, engineering executives, and ML researchers for two jam-packed days of keynotes, hands-on architectural workshops, and startup venture pitches. Topics cover multimodal reasoning models, edge inference optimization, distributed cloud scaling, and autonomous AI agents.",
+    "highlights": [
+      "42 keynote presentations & deep-dive technical breakout sessions",
+      "Live interactive lab stations featuring cutting-edge hardware",
+      "Curated 1-on-1 networking lounges with tech venture capital partners",
+      "Full catered breakfast, gourmet lunch buffets, and networking happy hour"
+    ],
+    "schedule": [
+      { "time": "08:30", "title": "Check-in, Breakfast & Badge Pickup", "speakerOrDetail": "Registration Foyer" },
+      { "time": "09:30", "title": "Opening Keynote: Frontier Multi-modal Systems", "speakerOrDetail": "Dr. Sarah Chen, Chief AI Scientist" },
+      { "time": "11:15", "title": "Panel: Autonomous Agents in Production Workflows", "speakerOrDetail": "VP of Engineering Leaders" },
+      { "time": "14:00", "title": "Deep Dive: Building High-Throughput Cloud Pipelines", "speakerOrDetail": "Hands-on Workshop Room 4" },
+      { "time": "16:30", "title": "Startup Pitch Showcase & Happy Hour Drinks", "speakerOrDetail": "Main Exhibition Atrium" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "ticketTiers": [
+      {
+        "id": "tier-dev-002",
+        "name": "Developer Pass",
+        "price": 120,
+        "description": "Access to all keynotes, breakout sessions, expo hall, and standard networking lunch.",
+        "perks": ["All keynote & track sessions", "Expo hall access", "Buffet lunch & coffee breaks", "Digital session recordings access"],
+        "remaining": 70
+      },
+      {
+        "id": "tier-workshop-002",
+        "name": "All-Access + Workshops",
+        "price": 240,
+        "description": "Includes hands-on coding labs, speaker green room networking, and exclusive dinner.",
+        "perks": ["Hands-on interactive workshops", "Reserved front-row seating", "VIP Networking Dinner on Friday", "Summit gift kit & digital certification"],
+        "remaining": 35
+      },
+      {
+        "id": "tier-exec-002",
+        "name": "Executive VIP Lounge",
+        "price": 490,
+        "description": "Private meeting rooms, private executive lounge, concierge service, and 1-on-1 VC sessions.",
+        "perks": ["Private meeting room access", "Dedicated concierge", "Full access to VC matchmaking lounge", "Fine dining passes"],
+        "remaining": 10
+      }
+    ]
+  },
+  {
+    "id": "eh-ev-003",
+    "title": "Artisan Flavors: International Food & Wine Expo",
+    "tagline": "Taste your way through 60+ master chefs, Michelin-starred popups, and boutique organic vineyards.",
+    "category": "Food & Drink",
+    "date": "2026-10-30",
+    "time": "12:00 - 20:00",
+    "venue": "The Grand Pavilion & Gardens",
+    "city": "Napa Valley, CA",
+    "address": "1200 Oakville Cross Rd",
+    "price": 45,
+    "currency": "$",
+    "featured": true,
+    "rating": 4.88,
+    "reviewsCount": 290,
+    "totalCapacity": 1200,
+    "remainingTickets": 62,
+    "tags": ["Gourmet", "Wine Tasting", "Chefs", "Foodie", "Farm-to-Table"],
+    "organizer": {
+      "name": "Gastronomy Guild California",
+      "role": "Culinary Heritage Association",
+      "avatar": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?auto=format&fit=crop&w=200&q=80",
+      "verified": true,
+      "contactEmail": "events@gastronomyguild.org",
+      "phone": "+1 (707) 555-0812"
+    },
+    "description": "An unforgettable weekend celebrating culinary mastery! Sample signature tasting plates from 60 award-winning chefs, discover boutique wines from private cellars, and attend live masterclasses covering sourdough craftsmanship, molecular gastronomy, and sommelier pairing secrets.",
+    "highlights": [
+      "Over 120 tasting stations featuring regional & international delicacies",
+      "Live chef cook-off battles hosted by celebrity TV culinary personalities",
+      "Includes commemorative crystal tasting glass and tote bag",
+      "Live acoustic jazz trio performing in the open garden terrace"
+    ],
+    "schedule": [
+      { "time": "12:00", "title": "Grand Tasting Gates Open", "speakerOrDetail": "Pavilion Main Lawn" },
+      { "time": "13:30", "title": "Masterclass: French Pastry & Tempering Artistry", "speakerOrDetail": "Chef Antoine Laurent" },
+      { "time": "15:30", "title": "Sommelier Blind Tasting Competition", "speakerOrDetail": "Wine Cellar Amphitheater" },
+      { "time": "18:00", "title": "Sunset Tasting & Live Jazz Ensemble", "speakerOrDetail": "Rose Garden Stage" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "ticketTiers": [
+      {
+        "id": "tier-tasting-003",
+        "name": "Standard Tasting Pass",
+        "price": 45,
+        "description": "Entry + 10 food tasting tokens + souvenir wine glass.",
+        "perks": ["Event entry", "10 tasting tokens", "Souvenir tasting glass", "Access to live demonstrations"],
+        "remaining": 40
+      },
+      {
+        "id": "tier-epicure-003",
+        "name": "Epicurean VIP Pass",
+        "price": 95,
+        "description": "Unlimited food & wine tastings, private reserve lounge, and reserved demo seats.",
+        "perks": ["Unlimited tastings across all booths", "Private reserve wine cellar access", "Guaranteed seating at chef masterclasses", "Artisan gourmet gift basket"],
+        "remaining": 22
+      }
+    ]
+  },
+  {
+    "id": "eh-ev-004",
+    "title": "Chroma: Modern Art & Light Biennial",
+    "tagline": "Walk through mind-bending kinetic light installations, digital sculptures, and contemporary gallery showcases.",
+    "category": "Arts & Culture",
+    "date": "2026-11-05",
+    "time": "10:00 - 22:00",
+    "venue": "Kinetics Contemporary Arts Museum",
+    "city": "Los Angeles, CA",
+    "address": "800 S Grand Ave, Arts District",
+    "price": 30,
+    "currency": "$",
+    "featured": false,
+    "rating": 4.82,
+    "reviewsCount": 178,
+    "totalCapacity": 900,
+    "remainingTickets": 140,
+    "tags": ["Modern Art", "Light Show", "Exhibition", "Photography", "Sculpture"],
+    "organizer": {
+      "name": "Prism Arts Collective",
+      "role": "Curatorial Studio",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=200&q=80",
+      "verified": true,
+      "contactEmail": "curator@prismartscollective.com",
+      "phone": "+1 (213) 555-7788"
+    },
+    "description": "CHROMA transforms 40,000 square feet into a sensory wonderland. Featuring interactive fiber-optic forests, generative AI visuals responding to your movement, and monumental geometric reflections by internationally acclaimed contemporary artists.",
+    "highlights": [
+      "14 expansive walkthrough immersive light galleries",
+      "Hands-on interactive projection stations for all ages",
+      "Curated photography friendly lighting design",
+      "Artist talks and panel discussion every evening at 6 PM"
+    ],
+    "schedule": [
+      { "time": "10:00", "title": "Daytime Explorations & Kids Guided Walk", "speakerOrDetail": "Main Hall" },
+      { "time": "14:00", "title": "Artist Walkthrough: The Architecture of Luminescence", "speakerOrDetail": "Curator Elena Vance" },
+      { "time": "18:00", "title": "Sunset Ambient Sound & Light Modulation", "speakerOrDetail": "South Gallery" },
+      { "time": "20:00", "title": "Late Night Luminary Experience & Cocktails", "speakerOrDetail": "Rooftop Glasshouse" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1508997449629-303059a039c0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "ticketTiers": [
+      {
+        "id": "tier-student-004",
+        "name": "Student / Youth",
+        "price": 20,
+        "description": "Discounted admission for students with valid student ID.",
+        "perks": ["General museum admission", "Digital exhibition guidebook"],
+        "remaining": 60
+      },
+      {
+        "id": "tier-standard-004",
+        "name": "General Admission",
+        "price": 30,
+        "description": "Full access to all 14 light installation wings and daily artist talk.",
+        "perks": ["Full exhibition access", "Audio guide headset", "Complimentary exhibition poster"],
+        "remaining": 65
+      },
+      {
+        "id": "tier-vip-004",
+        "name": "Night Glow Pass",
+        "price": 55,
+        "description": "After-dark access, rooftop cocktail voucher, and priority entrance.",
+        "perks": ["Skip-the-line entrance", "Rooftop lounge drink voucher", "Collector's exhibition catalog book"],
+        "remaining": 15
+      }
+    ]
+  },
+  {
+    "id": "eh-ev-005",
+    "title": "Pacific Coast Half Marathon & 10K",
+    "tagline": "Run along coastal cliffs, scenic ocean bridges, and celebrate at the beachfront finish-line festival.",
+    "category": "Sports",
+    "date": "2026-11-14",
+    "time": "06:30 - 13:00",
+    "venue": "Coastal Highway Promenade",
+    "city": "Santa Monica, CA",
+    "address": "Ocean Ave & Colorado Ave Pier",
+    "price": 50,
+    "currency": "$",
+    "featured": false,
+    "rating": 4.92,
+    "reviewsCount": 640,
+    "totalCapacity": 3000,
+    "remainingTickets": 210,
+    "tags": ["Running", "Marathon", "Fitness", "Outdoors", "Ocean View"],
+    "organizer": {
+      "name": "California Endurance Sports",
+      "role": "Athletic Event Management",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=200&q=80",
+      "verified": true,
+      "contactEmail": "race@californiaendurance.com",
+      "phone": "+1 (310) 555-4422"
+    },
+    "description": "A stunning, certified oceanfront course offering sweeping views of the Pacific coast. Whether tackling your first 10K or chasing a half-marathon personal best, runners will enjoy fully stocked hydration stations, live cheer squads every mile, and an energetic finish-line celebration with music and recovery snacks.",
+    "highlights": [
+      "USATF certified, flat and fast scenic oceanfront course",
+      "Premium technical moisture-wicking finisher t-shirt & heavy die-cast metal medal",
+      "Electronic chip timing with live split tracking for family & friends",
+      "Post-race beach party with live music, craft beer garden, and massage tents"
+    ],
+    "schedule": [
+      { "time": "06:00", "title": "Warm-up Stretch & Gear Check Open", "speakerOrDetail": "Santa Monica Pier Plaza" },
+      { "time": "06:45", "title": "Half Marathon Wave 1 Start", "speakerOrDetail": "Ocean Ave Starting Arch" },
+      { "time": "07:30", "title": "10K Run & Joggers Wave Start", "speakerOrDetail": "Ocean Ave Starting Arch" },
+      { "time": "09:30", "title": "Awards Ceremony & Podium Presentations", "speakerOrDetail": "Main Beach Stage" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1513593771513-7b58b6c4af38?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502680390469-be75c86b636f?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "ticketTiers": [
+      {
+        "id": "tier-10k-005",
+        "name": "10K Run Entry",
+        "price": 50,
+        "description": "Official 10K entry, timing bib, finisher medal, and event shirt.",
+        "perks": ["Chipped bib timing", "Finisher medal", "Technical running tee", "Finish festival food & drink ticket"],
+        "remaining": 120
+      },
+      {
+        "id": "tier-half-005",
+        "name": "Half Marathon (13.1 Miles)",
+        "price": 85,
+        "description": "Official Half Marathon entry, premium finisher medal, tech jacket upgrade option.",
+        "perks": ["Chipped bib timing with live SMS tracking", "Heavyweight custom medal", "Performance tech runner shirt", "Post-race recovery massage pass"],
+        "remaining": 90
+      }
+    ]
+  },
+  {
+    "id": "eh-ev-006",
+    "title": "NextGen Founder Summit & Angel Pitch Day",
+    "tagline": "Connect with 80+ top angel investors, discover early-stage venture breakthroughs, and master scaling.",
+    "category": "Business",
+    "date": "2026-11-20",
+    "time": "09:00 - 17:30",
+    "venue": "Silicon Harbor Executive Center",
+    "city": "Seattle, WA",
+    "address": "2200 Alaskan Way, Pier 66",
+    "price": 95,
+    "currency": "$",
+    "featured": true,
+    "rating": 4.91,
+    "reviewsCount": 215,
+    "totalCapacity": 600,
+    "remainingTickets": 45,
+    "tags": ["Startups", "Venture Capital", "Investing", "Pitch", "Leadership"],
+    "organizer": {
+      "name": "VentureScale Alliance",
+      "role": "Startup Acceleration Network",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&q=80",
+      "verified": true,
+      "contactEmail": "summit@venturescale.io",
+      "phone": "+1 (206) 555-9014"
+    },
+    "description": "The epicenter for high-growth tech founders, operators, and seed investors. Featuring 15 live seed-stage pitches before an elite panel of managing partners, masterclasses on unit economics and GTM strategies, and curated matchmaking sessions.",
+    "highlights": [
+      "$500,000 live syndicated prize fund awarded during the final pitch round",
+      "Direct 1-on-1 scheduled office hours with leading seed venture partners",
+      "Comprehensive workshops on product-market fit, cap tables, and hiring",
+      "Executive cocktail reception with panoramic Elliott Bay sunset views"
+    ],
+    "schedule": [
+      { "time": "09:00", "title": "Breakfast & Keynote: Navigating Early-Stage Valuations", "speakerOrDetail": "Partner at Horizon Ventures" },
+      { "time": "10:45", "title": "Seed Cohort Live Pitch Battle (Rounds 1-8)", "speakerOrDetail": "Grand Ballroom Auditorium" },
+      { "time": "12:30", "title": "Investor Matchmaking Lunch", "speakerOrDetail": "Executive Terrace" },
+      { "time": "14:30", "title": "Workshop: Scaling Enterprise Sales from $0 to $10M ARR", "speakerOrDetail": "Workshop Theater B" },
+      { "time": "16:30", "title": "Prize Fund Award Ceremony & Closing Reception", "speakerOrDetail": "Harbor View Lounge" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "ticketTiers": [
+      {
+        "id": "tier-founder-006",
+        "name": "Founder Standard Pass",
+        "price": 95,
+        "description": "Entry for startup founders to pitch battles, keynotes, and lunch networking.",
+        "perks": ["Access to all keynotes and pitch battles", "Catered networking lunch", "Digital directory of participating investors"],
+        "remaining": 30
+      },
+      {
+        "id": "tier-vip-founder-006",
+        "name": "Investor & Founder All-Access",
+        "price": 195,
+        "description": "Guaranteed 1-on-1 matchmaking speed meetings and sunset cocktail gala.",
+        "perks": ["All Founder perks", "Guaranteed 1-on-1 investor meetings", "Sunset cocktail gala admission", "Startup pitch deck inclusion in investor binder"],
+        "remaining": 15
+      }
+    ]
+  },
+  {
+    "id": "eh-ev-007",
+    "title": "Design Systems & UI Engineering Masterclass",
+    "tagline": "An intensive hands-on workshop on token architecture, accessible component libraries, and motion design.",
+    "category": "Workshops",
+    "date": "2026-11-28",
+    "time": "10:00 - 16:30",
+    "venue": "The Loft Creative Studios",
+    "city": "Austin, TX",
+    "address": "401 E 6th St, Studio 3B",
+    "price": 80,
+    "currency": "$",
+    "featured": false,
+    "rating": 4.97,
+    "reviewsCount": 98,
+    "totalCapacity": 50,
+    "remainingTickets": 8,
+    "tags": ["Design", "Figma", "React", "Frontend", "UI/UX"],
+    "organizer": {
+      "name": "Craft & Pixels Studio",
+      "role": "Design Education Lab",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=200&q=80",
+      "verified": true,
+      "contactEmail": "learn@craftandpixels.design",
+      "phone": "+1 (512) 555-8831"
+    },
+    "description": "Master the art of building scalable, accessible, and delightful design systems. Taught by principal design system engineers from world-class tech firms, this hands-on workshop takes you from design tokens in Figma straight to reusable React components with zero-loss handoff.",
+    "highlights": [
+      "Intimate small-group learning capped at 50 attendees for personal feedback",
+      "Full repository code templates with token automated CI/CD pipelines",
+      "Deep dive into WCAG AA/AAA accessibility and keyboard navigation compliance",
+      "Complete recorded sessions, Figma UI kits, and course workbook included"
+    ],
+    "schedule": [
+      { "time": "10:00", "title": "Token Architecture: Scales, Colors, Semantic Aliasing", "speakerOrDetail": "Figma design system setup" },
+      { "time": "11:45", "title": "Translating Tokens into Modern CSS & React Hooks", "speakerOrDetail": "Live code demonstration" },
+      { "time": "13:00", "title": "Networking Lunch & Portfolio Reviews", "speakerOrDetail": "Studio Lounge" },
+      { "time": "14:15", "title": "Advanced Component States, Radix & Micro-animations", "speakerOrDetail": "Interactive coding challenge" },
+      { "time": "16:00", "title": "Group Q&A and Design System Audits", "speakerOrDetail": "Wrap up and certificate distribution" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542744094-3a31f272c490?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "ticketTiers": [
+      {
+        "id": "tier-workshop-007",
+        "name": "Live Workshop Seat",
+        "price": 80,
+        "description": "In-person studio seat, interactive code sandbox, lunch, and resources.",
+        "perks": ["Full day in-person workshop", "Figma library & Github repo source code", "Catered lunch & specialty coffee", "1-on-1 portfolio review"],
+        "remaining": 8
+      }
+    ]
+  },
+  {
+    "id": "eh-ev-008",
+    "title": "Acoustic Sunset Under the Stars",
+    "tagline": "An intimate evening of indie folk, storytelling, craft cider, and campfire acoustics.",
+    "category": "Music",
+    "date": "2026-12-04",
+    "time": "18:00 - 22:30",
+    "venue": "Pinecrest Hill Amphitheater",
+    "city": "Boulder, CO",
+    "address": "1800 Mountain View Rd",
+    "price": 35,
+    "currency": "$",
+    "featured": false,
+    "rating": 4.96,
+    "reviewsCount": 182,
+    "totalCapacity": 400,
+    "remainingTickets": 34,
+    "tags": ["Indie Folk", "Acoustic", "Campfire", "Intimate", "Live Music"],
+    "organizer": {
+      "name": "Wildflower Concerts",
+      "role": "Boutique Acoustic Series",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=200&q=80",
+      "verified": true,
+      "contactEmail": "tickets@wildflowerconcerts.com",
+      "phone": "+1 (303) 555-7190"
+    },
+    "description": "Gather around glowing fire pits beneath the Colorado night sky for an acoustic showcase featuring four celebrated indie-folk singer-songwriters. Enjoy hot artisanal cider, craft s'mores bars, and heartwarming acoustic harmonies in a scenic pine grove.",
+    "highlights": [
+      "4 award-winning indie folk songwriters in an unplugged format",
+      "Cozy open-air mountain setting with heated fire lounges and wool blankets",
+      "Artisan cider tasting and gourmet s'mores kit included with every ticket",
+      "Stargazing telescope deck guided by local astronomy enthusiasts"
+    ],
+    "schedule": [
+      { "time": "18:00", "title": "Gates Open, Fire Pits Lit & Cider Reception", "speakerOrDetail": "Pine Grove Lawn" },
+      { "time": "18:45", "title": "Opening Set: The Mountain Meadow Duo", "speakerOrDetail": "Amphitheater Stage" },
+      { "time": "20:00", "title": "Featured Performance: Clara Evans & Strings", "speakerOrDetail": "Amphitheater Stage" },
+      { "time": "21:30", "title": "Campfire Jam Session & Stargazing", "speakerOrDetail": "Firepit Circle" }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "ticketTiers": [
+      {
+        "id": "tier-lawn-008",
+        "name": "General Lawn & Firepit Pass",
+        "price": 35,
+        "description": "Lawn seating, wool blanket rental, hot cider, and s'mores kit.",
+        "perks": ["Entry to amphitheater lawn", "Hot artisan cider mug", "Campfire s'mores kit", "Access to stargazing telescope deck"],
+        "remaining": 24
+      },
+      {
+        "id": "tier-reserve-008",
+        "name": "Reserved Firepit Lounge",
+        "price": 70,
+        "description": "Dedicated Adirondack lounge chairs right by the main firepit and table service.",
+        "perks": ["Reserved front-row Adirondack seating", "Unlimited cider & cocoa", "Keepsake insulated tumbler", "Signed artist vinyl"],
+        "remaining": 10
+      }
+    ]
+  }
+]

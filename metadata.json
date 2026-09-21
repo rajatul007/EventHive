@@ -1,0 +1,6 @@
+{
+  "name": "EventHive - Event Booking & Management",
+  "description": "Discover, explore, and seamlessly book tickets for upcoming concerts, tech summits, food festivals, and sports events with live filtering and digital ticket passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
